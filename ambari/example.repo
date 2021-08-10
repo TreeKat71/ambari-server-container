@@ -1,0 +1,5 @@
+[YourRepo]
+name=YOUR-REPO
+baseurl=https://www.yourrepo.com/repos/centos/7/ambari/2.7.5.0/
+enabled=1
+gpgcheck=0
